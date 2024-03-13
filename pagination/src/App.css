@@ -1,0 +1,12 @@
+.pagination{
+    display: flex;
+    list-style-type: none;
+}
+
+.page-link{
+    text-decoration: none;
+}
+
+.pagination li{
+    margin-right: 10px;
+}
